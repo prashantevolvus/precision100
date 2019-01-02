@@ -1,8 +1,11 @@
 ﻿master table,gfpf,
 key,gfcpnc,
 join 1,bgpf,gfcus=bgcus
-mapping,,
-cust_name,trim(gfnam),
-cust_phone,bgphon,
-cust_add,sp_cust_add,
-cust_full_name,trim(bgfn1)||trim(bgfn2)||trim(bgfn3),
+join 2,map_cif,gfcpnc=leg_cif_id
+mapping_dest_field,source_field_name,description
+custo_no,new_cif_id, new customer number
+old_cust_no,gfcpnc, old customer number
+cust_name,trim(gfnam),customer name
+cust_phone,bgphon,customer phone number
+cust_add,sp_cust_add,customer primary address
+cust_full_name,trim(bgfn1)||trim(bgfn2)||trim(bgfn3),full name of customer
