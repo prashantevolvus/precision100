@@ -1,1 +1,8 @@
-mapping for CIF master
+﻿master table,gfpf,
+key,gfcpnc,
+join 1,bgpf,gfcus=bgcus
+mapping,,
+cust_name,trim(gfnam),
+cust_phone,bgphon,
+cust_add,sp_cust_add,
+cust_full_name,trim(bgfn1)||trim(bgfn2)||trim(bgfn3),
