@@ -8,3 +8,5 @@ legacy_account,scab||scan||scas,old account number
 account_name,scshn,name of the account
 dr_interest_rate,s5ratd,debit interest rate
 cr_interest_rate,s5ratc,credit interest rate
+last_interest_posting_date,sp_int_post_date
+last_accrual_date,EOD_DATE
