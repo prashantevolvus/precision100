@@ -3,8 +3,8 @@ key,scab||scan||scas,
 join 1,s5pf,scab=s5ab and s5an=scan and scas=s5as
 join 2,map_acc,scab||scan||scas=leg_acc_num
 mapping,,
-account_no=new_acc_num
-legacy_account=scab||scan||scas
-account_name=scshn
-dr_interest_rate=s5ratd
-cr_interest_rate=s5ratc
+account_no,new_acc_num
+legacy_account,scab||scan||scas
+account_name,scshn
+dr_interest_rate,s5ratd
+cr_interest_rate,s5ratc
