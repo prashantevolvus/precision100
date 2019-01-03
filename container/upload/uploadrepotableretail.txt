@@ -1,0 +1,5 @@
+#run/verificationrep/rep_o_table/retail/bak_rep_cu1_o_table.sql
+#run/verificationrep/rep_o_table/retail/rep_cu2_o_table.sql
+run/verificationrep/rep_o_table/retail/rep_cu5_o_table.sql
+#run/verificationrep/rep_o_table/retail/rep_cu6_o_table.sql
+#run/verificationrep/rep_o_table/retail/rep_cu8_o_table.sql

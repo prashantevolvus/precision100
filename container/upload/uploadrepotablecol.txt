@@ -1,0 +1,9 @@
+run/verificationrep/rep_o_table/retail/rep_cu6_o_table.sql
+#run/verificationrep/rep_o_table/collateral/rep_col_g_o_table.sql
+#run/verificationrep/rep_o_table/collateral/rep_col_ip_re_o_table.sql
+#run/verificationrep/rep_o_table/collateral/rep_col_others_ins_o_table.sql
+
+
+
+
+

@@ -1,0 +1,8 @@
+#run/upload/finacle/ccu1_upload_ae.sql
+#run/upload/finacle/ccu2_upload_ae.sql
+##run/upload/finacle/ccu3_upload.sql
+#run/upload/finacle/ccu5_upload_ae.sql
+#run/upload/finacle/ccu7_upload_ae.sql
+#run/upload/finacle/ccu8_upload_ae.sql
+#run/upload/finacle/ccu9_upload.sql
+##run/upload/finacle/custom_corp_capital_upload.sql

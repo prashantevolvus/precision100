@@ -1,0 +1,13 @@
+run/verification_reports/kuwait/casa/test.sql reports/kw/casa/test.dat
+#run/verification_reports/kuwait/casa/cla.sql reports/kw/casa/cla.dat
+#run/verification_reports/kuwait/casa/corp_lien.sql reports/kw/casa/corp_lien.dat
+#run/verification_reports/kuwait/casa/corp_sbca_master.sql reports/kw/casa/corp_sbca_master.dat
+#run/verification_reports/kuwait/casa/laa_master.sql reports/kw/casa/laa_master.dat
+#run/verification_reports/kuwait/casa/ns_oda_master.sql reports/kw/casa/ns_oda_master.dat
+#run/verification_reports/kuwait/casa/ns_sbca_master.sql reports/kw/casa/ns_sbca_master.dat
+#run/verification_reports/kuwait/casa/ns_tda_master.sql reports/kw/casa/ns_tda_master.dat
+#run/verification_reports/kuwait/casa/retail_lien.sql reports/kw/casa/retail_lien.dat
+#run/verification_reports/kuwait/casa/s_oda_master.sql reports/kw/casa/s_oda_master.dat
+#run/verification_reports/kuwait/casa/s_sbca_master.sql reports/kw/casa/s_sbca_master.dat
+#run/verification_reports/kuwait/casa/s_tda_master.sql reports/kw/casa/s_tda_master.dat
+#run/spool/finacle/TF004_AMD_spool.sql finacle/TF/TF004_amnd.txt

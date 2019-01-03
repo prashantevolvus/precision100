@@ -1,0 +1,7 @@
+run/spool/finacle/tda02_spool_uae.sql finacle/tda/UAE/TD002.txt /CORE/td/
+run/spool/finacle/tda04_spool_uae.sql finacle/tda/UAE/TD004.txt /CORE/td/
+#run/spool/finacle/tua04_spool_uae.sql finacle/tda/UAE/TUA004.txt /CORE/td/
+run/spool/finacle/tda08_spool_uae.sql finacle/tda/UAE/TD008.txt /CORE/td/
+#run/spool/finacle/td_ren_prd_spool_uae.sql finacle/tda/UAE/TD_REN_PRD.txt /core/td/
+#run/spool/finacle/tda07_spool_uae.sql finacle/tda/UAE/TD007.txt /core/td/
+

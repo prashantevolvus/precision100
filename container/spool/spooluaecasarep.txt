@@ -1,0 +1,14 @@
+run/verification_reports/uae/casa/chequebookmaster.sql reports/uae/casa/chequebookmaster.dat
+run/verification_reports/uae/casa/cla.sql reports/uae/casa/cla.dat
+run/verification_reports/uae/casa/laa_master.sql reports/uae/casa/laa_master.dat
+run/verification_reports/uae/casa/corp_lein.sql reports/uae/casa/corp_lein.dat
+run/verification_reports/uae/casa/retail_lein.sql reports/uae/casa/retail_lein.dat
+run/verification_reports/uae/casa/ns_oda_master.sql reports/uae/casa/ns_oda_master.dat
+run/verification_reports/uae/casa/ns_sbca_master.sql reports/uae/casa/ns_sbca_master.dat
+run/verification_reports/uae/casa/corp_sbca_master.sql reports/uae/casa/corp_sbca_master.dat
+run/verification_reports/uae/casa/ns_tda_master.sql reports/uae/casa/ns_tda_master.dat
+run/verification_reports/uae/casa/s_oda_master.sql reports/uae/casa/s_oda_master.dat
+run/verification_reports/uae/casa/s_sbca_master.sql reports/uae/casa/s_sbca_master.dat
+run/verification_reports/uae/casa/s_tda_master.sql reports/uae/casa/s_tda_master.dat
+#run/verification_reports/uae/casa/si.sql reports/uae/casa/si.dat
+run/verification_reports/uae/casa/stop_cheque.sql reports/uae/casa/stop_cheque.dat

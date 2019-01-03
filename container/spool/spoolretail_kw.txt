@@ -1,0 +1,17 @@
+#run/spool/finacle/cu1_spool_kw.sql finacle/cifkw/RC001.txt /CIF/retail/
+#run/spool/finacle/cu2_spool_kw.sql finacle/cifkw/RC002.txt /CIF/retail/
+#run/spool/finacle/cu3_spool_kw.sql finacle/cifkw/RC003.txt /CIF/retail/
+run/spool/finacle/cu4_spool_kw.sql finacle/cifkw/RC004.txt /CIF/retail/
+#run/spool/finacle/cu5_spool_kw.sql finacle/cifkw/RC005.txt /CIF/retail/
+#run/spool/finacle/cu6_spool_kw.sql finacle/cifkw/RC006.txt /CIF/retail/
+#run/spool/finacle/cu8_spool_kw.sql finacle/cifkw/RC008.txt /CIF/retail/
+#run/spool/finacle/cu9_spool_kw.sql finacle/cifkw/RC009.txt /CIF/retail/
+
+
+
+
+
+
+
+
+

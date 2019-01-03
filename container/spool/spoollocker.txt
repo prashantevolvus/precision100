@@ -1,0 +1,2 @@
+run/spool/finacle/custom_lcu001_spool.sql finacle/locker/custom_lcu001.txt
+#run/spool/finacle/custom_ltu001_spool.sql finacle/locker/custom_ltu001.txt

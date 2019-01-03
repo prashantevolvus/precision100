@@ -1,0 +1,4 @@
+run/verificationrep/rep_o_table/finance/deal_wise_spool.sql
+run/verificationrep/rep_o_table/finance/fin_balance_rep.sql
+run/verificationrep/rep_o_table/finance/loan_prepare.sql
+run/verificationrep/rep_o_table/finance/rep_repayment_schedule.sql

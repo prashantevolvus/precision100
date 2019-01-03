@@ -1,0 +1,21 @@
+run/spool/finacle/dubdatafd_spool.sql finacle/dubdatafiles/dubdatafd.txt
+run/spool/finacle/dubdeals_spool.sql finacle/dubdatafiles/dubdeals.txt
+run/spool/finacle/dubloans_spool.sql finacle/dubdatafiles/dubloans.txt
+#run/spool/finacle/dubinex_spool.sql finacle/dubdatafiles/dubinex.txt
+#run/spool/finacle/dubav_spool.sql finacle/dubdatafiles/dubav.txt
+run/spool/finacle/dubcust_spool.sql finacle/dubdatafiles/dubcust.txt
+run/spool/finacle/dubact_spool.sql finacle/dubdatafiles/dubact.txt
+run/spool/finacle/dubccy_spool.sql finacle/dubdatafiles/dubccy.txt
+run/spool/finacle/dubofc_spool.sql finacle/dubdatafiles/dubofc.txt
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+#run/spool/finacle/sms_and_e_banking_user_spool.sql finacle/ebanking/sms_and_e_banking_user.txt
+#run/spool/finacle/payee_master_spool.sql finacle/ebanking/payee_master.txt
+#run/spool/finacle/customer_payee_spool.sql finacle/ebanking/customer_payee.txt
+#run/spool/finacle/sms_alerts_registration_spool.sql finacle/ebanking/sms_alerts_registration.txt
+run/spool/finacle/sms_alerts_subscription_spool.sql finacle/ebanking/sms_alerts_subscription.txt

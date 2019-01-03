@@ -1,0 +1,14 @@
+run/verification_reports/uae/cif/corp_master.sql reports/uae/cif/corp_master.dat
+run/verification_reports/uae/cif/corp_address.sql reports/uae/cif/corp_address.dat
+run/verification_reports/uae/cif/corp_doc.sql reports/uae/cif/corp_doc.dat
+run/verification_reports/uae/cif/corp_phone.sql reports/uae/cif/corp_phone.dat
+run/verification_reports/uae/cif/ns_retail_address.sql reports/uae/cif/ns_retail_address.dat
+run/verification_reports/uae/cif/ns_retail_demographic.sql reports/uae/cif/ns_retail_demographic.dat
+run/verification_reports/uae/cif/ns_retail_doc.sql reports/uae/cif/ns_retail_doc.dat
+run/verification_reports/uae/cif/ns_retail_master.sql reports/uae/cif/ns_retail_master.dat
+run/verification_reports/uae/cif/ns_retail_phone.sql reports/uae/cif/ns_retail_phone.dat
+run/verification_reports/uae/cif/s_retail_address.sql reports/uae/cif/s_retail_address.dat
+run/verification_reports/uae/cif/s_retail_demographic.sql reports/uae/cif/s_retail_demographic.dat
+run/verification_reports/uae/cif/s_retail_doc.sql reports/uae/cif/s_retail_doc.dat
+run/verification_reports/uae/cif/s_retail_master.sql reports/uae/cif/s_retail_master.dat
+run/verification_reports/uae/cif/s_retail_phone.sql reports/uae/cif/s_retail_phone.dat

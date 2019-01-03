@@ -1,0 +1,4 @@
+run/upload/treasury_limit/treasury_country_limit_upload.sql
+run/upload/treasury_limit/treasury_customer_and_group_limit_upload.sql
+run/upload/treasury_limit/treasury_group_and_cpty_map_upload.sql
+run/upload/treasury_limit/treasury_group_upload.sql

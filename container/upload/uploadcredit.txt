@@ -1,0 +1,2 @@
+run/upload/finacle/custom_card_cif_upload.sql
+#run/upload/finacle/custom_card_dd_upload.sql

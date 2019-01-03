@@ -1,0 +1,46 @@
+run/verificationrep/corporate/corpmaster_spool.sql finacle/verificationrep/corporate/corpmaster.dat
+run/verificationrep/corporate/vipcorpmaster_spool.sql finacle/verificationrep/corporate/vipcorpmaster.dat
+run/verificationrep/corporate/corpaddress_spool.sql finacle/verificationrep/corporate/corpaddress.dat
+run/verificationrep/corporate/corp_client_summary_spool.sql finacle/verificationrep/corporate/corp_client_summary.dat
+run/verificationrep/corporate/corpclassification_spool.sql finacle/verificationrep/corporate/corpclassification.dat
+run/verificationrep/corporate/vipcorpclassification_spool.sql finacle/verificationrep/corporate/vipcorpclassification.dat
+run/verificationrep/corporate/corpdocument_spool.sql finacle/verificationrep/corporate/corpdocument.dat
+run/verificationrep/corporate/vipcorpdocument_spool.sql finacle/verificationrep/corporate/vipcorpdocument.dat
+run/verificationrep/corporate/corpemail_spool.sql finacle/verificationrep/corporate/corpemail.dat
+run/verificationrep/corporate/vipcorpemail_spool.sql finacle/verificationrep/corporate/vipcorpemail.dat
+run/verificationrep/corporate/vipcorpphone_spool.sql finacle/verificationrep/corporate/vipcorpphone.dat
+run/verificationrep/corporate/corpphone_spool.sql finacle/verificationrep/corporate/corpphone.dat
+run/verificationrep/corporate/vipcorpmaster_spool.sql finacle/verificationrep/corporate/vipcorpmaster.dat
+run/verificationrep/corporate/vipcorpclassification_spool.sql finacle/verificationrep/corporate/vipcorpclassification.dat
+run/verificationrep/corporate/vipcorpemail_spool.sql finacle/verificationrep/corporate/vipcorpemail.dat
+run/verificationrep/corporate/vipcorpaddress_spool.sql finacle/verificationrep/corporate/vipcorpaddress.dat
+run/verificationrep/corporate/vipcorpphone_spool.sql finacle/verificationrep/corporate/vipcorpphone.dat
+#run/verificationrep/retail/vipretmaster_spool.sql finacle/verificationrep/retail/vipretmaster.dat
+#run/verificationrep/retail/vipretaddr_spool.sql finacle/verificationrep/retail/vipretaddr.dat
+#run/verificationrep/retail/vipretdocument_spool.sql finacle/verificationrep/retail/vipretdocument.dat
+#run/verificationrep/retail/vipretclassi_spool.sql finacle/verificationrep/retail/vipretclassi.dat
+#run/verificationrep/retail/vipretdemographic_spool.sql finacle/verificationrep/retail/vipretdemographic.dat
+#run/verificationrep/retail/vipretemail_spool.sql finacle/verificationrep/retail/vipretemail.dat
+#run/verificationrep/retail/vipretphone_spool.sql finacle/verificationrep/retail/vipretphone.dat
+#run/verificationrep/retail/nsretdemographic_spool.sql finacle/verificationrep/retail/nsretdemographic.dat
+#run/verificationrep/retail/sretdemographic_spool.sql finacle/verificationrep/retail/sretdemographic.dat
+#run/verificationrep/retail/nsretmaster_spool.sql finacle/verificationrep/retail/nsretmaster.dat
+#run/verificationrep/retail/sretmaster_spool.sql finacle/verificationrep/retail/sretmaster.dat
+#run/verificationrep/retail/vipretmaster_spool.sql finacle/verificationrep/retail/vipretmaster.dat
+#run/verificationrep/retail/vipretdemographic_spool.sql finacle/verificationrep/retail/vipretdemographic.dat
+run/verificationrep/corporate/corpphone_spool.sql finacle/verificationrep/corporate/corpphone.dat
+run/verificationrep/corporate/vipcorpdocument_spool.sql finacle/verificationrep/corporate/vipcorpdocument.dat
+#run/verificationrep/core/dbmaster_spool.sql finacle/verificationrep/debitcard/dbmaster.dat
+#run/verificationrep/core/nssbamaster_spool.sql finacle/verificationrep/coremaster/nssbamaster.dat
+#run/verificationrep/core/ssbamaster_spool.sql finacle/verificationrep/coremaster/ssbamaster.dat
+#run/verificationrep/core/vipsbamaster_spool.sql finacle/verificationrep/coremaster/vipsbamaster.dat
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+acm.ctl  /quaestor/acm.dat
+chqbkt.ctl /quaestor/chqbkt.dat
+chqused.ctl  /quaestor/chqused.dat
+exfxprofit.ctl /quaestor/exfxprofit.dat
+custm.ctl /quaestor/custm.dat
+siacact.ctl /quaestor/siacact.dat
+instructionm.ctl /quaestor/instructionm.dat
+qapplicationm.ctl /quaestor/qapplicationm.dat
+stopchqm.ctl /quaestor/stopchqm.dat
+stopchqt.ctl /quaestor/stopchqt.dat
+printedlist.ctl /quaestor/printedlist.dat
+batchlott.ctl /quaestor/batchlott.dat
+tempbatcht.ctl /quaestor/tempbatcht.dat
+pdcinhousem.ctl /quaestor/pdcinhousem.dat
+pdcinhoused.ctl /quaestor/pdcinhoused.dat
+clrbnkm.ctl /quaestor/clrbnkm.dat

@@ -1,0 +1,6 @@
+run/verificationrep/rep_o_table/core/lien_rep.sql
+run/verificationrep/rep_o_table/core/rep_spt_o_table.sql
+
+
+
+

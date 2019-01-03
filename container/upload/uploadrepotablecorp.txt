@@ -1,0 +1,14 @@
+#run/verificationrep/rep_o_table/corporate/rep_cu1corp_o_table.sql
+#run/verificationrep/rep_o_table/corporate/rep_cu2corp_o_table.sql
+#run/verificationrep/rep_o_table/corporate/rep_cu7corp_o_table.sql
+#run/verificationrep/rep_o_table/corporate/rep_cu8corp_o_table.sql
+run/verificationrep/rep_o_table/retail/bak_rep_cu1_o_table.sql
+run/verificationrep/rep_o_table/retail/rep_cu2_o_table.sql
+run/verificationrep/rep_o_table/retail/rep_cu4_o_table.sql
+run/verificationrep/rep_o_table/retail/rep_cu5_o_table.sql
+run/verificationrep/rep_o_table/retail/rep_cu6_o_table.sql
+run/verificationrep/rep_o_table/retail/rep_cu8_o_table.sql
+
+
+
+

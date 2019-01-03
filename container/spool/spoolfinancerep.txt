@@ -1,0 +1,10 @@
+#run/verificationrep/finance/deal_wise_spool.sql finacle/verificationrep/finance/dealwiserep.dat
+#run/verificationrep/finance/loan_schedule_spool.sql finacle/verificationrep/finance/loan_schedule.dat
+run/verificationrep/finance/financebalance_spool.sql finacle/verificationrep/finance/financebalance.dat
+#run/verificationrep/finance/migration_control_bal.sql finacle/verificationrep/finance/migrationcontrolbal.dat
+
+
+
+
+
+

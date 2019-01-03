@@ -1,0 +1,5 @@
+##################executeodssql.sh UPLOADDUBFILES.TXT############################
+odsdev/DUBAV_NEW.SQL
+odsdev/DUBINEX_NEW.SQL
+odsdev/DUBDATAFD_NEW.SQL
+

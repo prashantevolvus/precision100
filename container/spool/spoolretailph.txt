@@ -1,0 +1,2 @@
+run/spool/finacle/cu6_spool.sql finacle/cif/RC006.txt /CIF/retail/
+

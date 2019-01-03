@@ -1,0 +1,8 @@
+run/spool/finacle/credit_card_cif_spool.sql credit/CREDITCARDCIF.txt 
+#run/spool/finacle/credit_card_dd_spool.sql credit/CREDITCARDDD.txt
+#run/spool/finacle/credit_card_recon_spool.sql credit/Credit_Card_Recon_Report.txt
+#run/spool/finacle/credit_card_branch_spool.sql credit/CREDITCARDBRANCH.txt
+#run/spool/finacle/credit_card_cep_code_spool.sql credit/CREDITCARDCEPCODE.txt
+#run/spool/finacle/credit_card_dd_pic_spool.sql credit/CREDITCARDDDPIC.txt
+#run/spool/finacle/credit_card_coll_spool.sql credit/CREDITCARDCOLL.txt
+

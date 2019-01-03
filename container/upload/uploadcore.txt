@@ -1,0 +1,17 @@
+run/upload/finacle/core01_upload.sql
+run/upload/finacle/core02_upload.sql
+#run/upload/finacle/core03_upload.sql
+#run/upload/finacle/core05_upload.sql
+#run/upload/finacle/core07_upload.sql
+#run/upload/finacle/core07_upload_test.sql
+#run/upload/finacle/core08_upload.sql
+#run/upload/finacle/core09_upload.sql
+#run/upload/finacle/core10_upload.sql
+#run/upload/finacle/core12_upload.sql
+#run/upload/finacle/core13_upload.sql
+#run/upload/finacle/core14_upload.sql
+#run/upload/finacle/core14_cccy_upload.sql
+#run/upload/finacle/core19_upload.sql
+#run/upload/finacle/core20_upload.sql
+#run/upload/finacle/core20_cccy_upload.sql
+#run/upload/finacle/siu_tt_upload.sql

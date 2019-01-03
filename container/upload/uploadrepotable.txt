@@ -1,0 +1,20 @@
+#run/verificationrep/rep_o_table/retail/bak_rep_cu1_o_table.sql
+#run/verificationrep/rep_o_table/retail/rep_cu2_o_table.sql
+#run/verificationrep/rep_o_table/retail/rep_cu4_o_table.sql
+run/verificationrep/rep_o_table/retail/rep_cu5_o_table.sql
+run/verificationrep/rep_o_table/retail/rep_cu6_o_table.sql
+run/verificationrep/rep_o_table/retail/rep_cu8_o_table.sql
+#run/verificationrep/rep_o_table/corporate/rep_cu1corp_o_table.sql
+#run/verificationrep/rep_o_table/corporate/rep_cu2corp_o_table.sql
+#run/verificationrep/rep_o_table/corporate/rep_cu7corp_o_table.sql
+#run/verificationrep/rep_o_table/corporate/rep_cu8corp_o_table.sql
+#run/verificationrep/rep_o_table/core/lien_rep.sql
+#run/verificationrep/rep_o_table/core/rep_spt_o_table.sql
+#run/verificationrep/rep_o_table/finance/deal_wise_spool.sql  ----not applicable/need to check
+#run/verificationrep/rep_o_table/finance/fin_balance_rep.sql
+#run/verificationrep/rep_o_table/finance/loan_prepare.sql
+#run/verificationrep/rep_o_table/finance/rep_repayment_schedule.sql
+#run/verificationrep/rep_o_table/collateral/rep_col_g_o_table.sql
+#run/verificationrep/rep_o_table/collateral/rep_col_ip_re_o_table.sql
+#run/verificationrep/rep_o_table/collateral/rep_col_others_ins_o_table.sql
+#run/verificationrep/rep_o_table/collateral/rep_col_others_o_table.sql

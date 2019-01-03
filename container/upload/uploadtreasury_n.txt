@@ -1,0 +1,1 @@
+run/upload/treasury1/fx_spot_deals_upload.sql

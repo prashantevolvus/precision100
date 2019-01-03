@@ -1,0 +1,17 @@
+#run/upload/finacle/TTUM01_upload.sql
+#run/upload/finacle/TTUM02_upload_ae.sql
+#run/upload/finacle/TTUM03_upload.sql
+run/upload/finacle/ttum5_upload_ae.sql
+#run/upload/finacle/ttumrltl_ae.sql
+#run/upload/finacle/col_dep_upload.sql
+#run/upload/finacle/col_g_upload.sql
+#run/upload/finacle/col_ins_upload.sql
+#run/upload/finacle/col_ip_re_upload.sql
+#run/upload/finacle/col_mach_upload.sql
+#run/upload/finacle/col_others_ins_upload.sql
+#run/upload/finacle/col_others_upload.sql
+#run/upload/finacle/col_tradable_upload.sql
+
+
+
+

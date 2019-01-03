@@ -1,0 +1,5 @@
+run/spool/finacle/col_dep_spool.sql finacle/collateral/COL_DEP.txt
+run/spool/finacle/col_ip_re_spool.sql finacle/collateral/COL_IP_RE.txt
+run/spool/finacle/col_tradable_spool.sql finacle/collateral/COL_TRAD.txt
+run/spool/finacle/col_g_spool.sql finacle/collateral/COL_GUA.txt
+run/spool/finacle/col_others_spool.sql finacle/collateral/COL_OTH.txt

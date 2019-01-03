@@ -1,0 +1,14 @@
+#run/verification_reports/kuwait/cif/corp_master.sql reports/kw/cif/corp_master.dat
+#run/verification_reports/kuwait/cif/corp_address.sql reports/kw/cif/corp_address.dat
+#run/verification_reports/kuwait/cif/corp_doc.sql reports/kw/cif/corp_doc.dat
+#run/verification_reports/kuwait/cif/corp_phone.sql reports/kw/cif/corp_phone.dat
+#run/verification_reports/kuwait/cif/ns_retail_address.sql reports/kw/cif/ns_retail_address.dat
+#run/verification_reports/kuwait/cif/ns_retail_demographic.sql reports/kw/cif/ns_retail_demographic.dat
+#run/verification_reports/kuwait/cif/ns_retail_doc.sql reports/kw/cif/ns_retail_doc.dat
+#run/verification_reports/kuwait/cif/ns_retail_master.sql reports/kw/cif/ns_retail_master.dat
+#run/verification_reports/kuwait/cif/ns_retail_phone.sql reports/kw/cif/ns_retail_phone.dat
+run/verification_reports/kuwait/cif/s_retail_address.sql reports/kw/cif/s_retail_address.dat
+#run/verification_reports/kuwait/cif/s_retail_demographic.sql reports/kw/cif/s_retail_demographic.dat
+#run/verification_reports/kuwait/cif/s_retail_doc.sql reports/kw/cif/s_retail_doc.dat
+#run/verification_reports/kuwait/cif/s_retail_master.sql reports/kw/cif/s_retail_master.dat
+#run/verification_reports/kuwait/cif/s_retail_phone.sql reports/kw/cif/s_retail_phone.dat

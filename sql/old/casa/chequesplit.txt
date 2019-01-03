@@ -1,0 +1,155 @@
+create or replace
+procedure chequesplit1 (inp_sol_id IN VARCHAR2)
+as
+
+--DECLARE
+
+DUABC  			 CHAR(4);
+DUANC			 CHAR(6);
+DUASC			 CHAR(3);
+DUFIRS			 CHAR(9);
+DULAST			 CHAR(9);
+DUCBTC			 CHAR(3);
+DTlast1  varchar2(16);
+DTlast2  varchar2(16);
+DTlast3  varchar2(16);
+DTlast4  varchar2(16);
+DTlast5  varchar2(16);
+DTlast6  varchar2(16);
+DTlast7  varchar2(16);
+DTlast8  varchar2(16);
+DTlast9  varchar2(16);
+DTlast10  varchar2(16);
+sdulast  varchar2(16);
+
+DTfirs1  varchar2(16);
+DTfirs2  varchar2(16);
+DTfirs3  varchar2(16);
+DTfirs4  varchar2(16);
+DTfirs5  varchar2(16);
+DTfirs6  varchar2(16);
+DTfirs7  varchar2(16);
+DTfirs8  varchar2(16);
+DTfirs9  varchar2(16);
+DTfirs10  varchar2(16);
+sdufirs  varchar2(16);
+
+CURSOR c1 is 
+  select DUABC,DUANC,DUASC,DUFIRS,DULAST,DUCBTC
+  from dupf ;
+  
+begin
+
+  begin
+  EXECUTE IMMEDIATE 'truncate table sdupf_o_table';
+  end;
+  
+  open c1 ;
+--  for record in c1
+    loop
+    
+          FETCH c1 INTO DUABC,DUANC,DUASC,DUFIRS,DULAST,DUCBTC;
+
+
+if (DULAST - DUFIRS) > 100 then
+      if
+       (DULAST - DUFIRS) > 100 then
+        dtlast1 := dufirs + 99;
+        sdulast := dtlast1;
+        sdufirs := dufirs;
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);              
+       end if;
+       if
+        (DULAST - dtlast1) > 100 then
+        dtlast2 := dtlast1 + 100;
+        dtfirs1 := dtlast1 + 1;
+        sdulast := dtlast2;
+        sdufirs := dtfirs1;
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);              
+       else
+       sdufirs := dtlast1 + 1;
+       sdulast := DULAST;
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);                     
+       end if;
+       if
+        (DULAST - dtlast2) > 100 then
+        dtlast3 := dtlast2 + 100;
+        dtfirs2 := dtlast2 + 1;
+        sdulast := dtlast3;
+        sdufirs := dtfirs2;
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);              
+       else
+       sdufirs := dtlast2 + 1;
+       sdulast := DULAST;
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);                     
+       end if;
+       if 
+        (DULAST - dtlast3) > 100 then
+        dtlast4 := dtlast3 + 100;
+        dtfirs3 := dtlast3 + 1;
+        sdulast := dtlast4;
+        sdufirs := dtfirs3;
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);              
+       end if;
+       if 
+        (DULAST - dtlast4) > 100 then
+        dtlast5 := dtlast4 + 100;
+        dtfirs4 := dtlast4 + 1;
+        sdulast := dtlast5;
+        sdufirs := dtfirs4;
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);              
+       end if;
+       if
+        (DULAST - dtlast5) > 100 then
+        dtlast6 := dtlast5 + 100;
+        dtfirs5 := dtlast5 + 1;
+        sdulast := dtlast6;
+        sdufirs := dtfirs5;
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);              
+      end if;
+      if 
+        (DULAST - dtlast6) > 100 then
+        dtlast7 := dtlast6 + 100;
+        dtfirs6 := dtlast6 + 1;
+        sdulast := dtlast7;
+        sdufirs := dtfirs6;
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);              
+     end if;
+     if 
+        (DULAST - dtlast7) > 100 then
+        dtlast8 := dtlast7 + 100;
+        dtfirs7 := dtlast7 + 1;
+        sdulast := dtlast8;
+        sdufirs := dtfirs7;
+    insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);              
+   end if;
+   if
+        (DULAST - dtlast8) > 100 then
+        dtlast9 := dtlast8 + 100;
+        dtfirs8 := dtlast8 + 1;
+        sdulast := dtlast9;
+        sdufirs := dtfirs8;
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);              
+   end if;
+   if
+        (DULAST - dtlast9) > 100 then
+        dtlast10 := dtlast9 + 100;
+        dtfirs9 := dtlast9 + 1;
+        sdulast := dtlast10;
+        sdufirs := dtfirs9;
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);
+    end if;
+    
+else
+    sdulast := DULAST;
+    sdufirs := DUFIRS;
+
+ end if;  
+          EXIT WHEN c1%NOTFOUND;  
+          
+          insert into sdupf_o_table values (DUABC,DUANC,DUASC,sdufirs,sdulast,DUCBTC);              
+          
+    COMMIT;
+  end loop;	
+   CLOSE c1;
+  end;

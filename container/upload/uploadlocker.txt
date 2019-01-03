@@ -1,0 +1,4 @@
+run/upload/finacle/custom_lcu001_upload.sql
+run/upload/finacle/custom_ltu001_upload.sql
+
+

@@ -1,0 +1,54 @@
+#run/verificationrep/core/nssbamaster_spool.sql finacle/verificationrep/coremaster/nssbamaster.dat
+#run/verificationrep/core/ssbamaster_spool.sql finacle/verificationrep/coremaster/ssbamaster.dat
+#run/verificationrep/core/vipsbamaster_spool.sql finacle/verificationrep/coremaster/vipsbamaster.dat
+#run/verificationrep/core/nsodamaster_spool.sql finacle/verificationrep/coremaster/nsodamaster.dat
+#run/verificationrep/core/sodamaster_spool.sql finacle/verificationrep/coremaster/sodamaster.dat
+#run/verificationrep/core/vipodamaster_spool.sql finacle/verificationrep/coremaster/vipodamaster.dat
+run/verificationrep/core/nstammaster_spool.sql finacle/verificationrep/coremaster/nstammaster.dat
+#run/verificationrep/core/stammaster_spool.sql finacle/verificationrep/coremaster/stammaster.dat
+#run/verificationrep/core/viptdamaster_spool.sql finacle/verificationrep/coremaster/viptdamaster.dat
+#run/verificationrep/core/nssbcaoda_bal_spool.sql finacle/verificationrep/corebalance/nssbcaoda_bal.dat
+#run/verificationrep/core/ssbcaoda_bal_spool.sql finacle/verificationrep/corebalance/ssbcaoda_bal.dat
+#run/verificationrep/core/vipsbcaoda_bal_spool.sql finacle/verificationrep/corebalance/vipsbcaoda_bal.dat
+#run/verificationrep/core/nstda_bal_spool.sql finacle/verificationrep/corebalance/nstda_bal.dat
+#run/verificationrep/core/stda_bal_spool.sql finacle/verificationrep/corebalance/stda_bal.dat
+#run/verificationrep/core/viptda_bal_spool.sql finacle/verificationrep/corebalance/viptda_bal.dat
+#run/verificationrep/core/cbsmaster_spool.sql finacle/verificationrep/coremaster/cbsmaster.dat
+#run/verificationrep/core/ddmaster_spool.sql finacle/verificationrep/coremaster/ddmaster.dat
+#run/verificationrep/core/nslienmaster_spool.sql finacle/verificationrep/coremaster/nslienmaster.dat
+#run/verificationrep/core/slienmaster_spool.sql finacle/verificationrep/coremaster/slienmaster.dat
+#run/verificationrep/core/viplienmaster_spool.sql finacle/verificationrep/coremaster/viplienmaster.dat
+#run/verificationrep/core/dbmaster_spool.sql finacle/verificationrep/debitcard/dbmaster.dat
+#run/verificationrep/core/spt_spool.sql finacle/verificationrep/coremaster/spt.dat
+#run/verificationrep/core/nsrelparties_spool.sql finacle/verificationrep/coreothers/nsrelparties.dat
+#run/verificationrep/core/srelparties_spool.sql finacle/verificationrep/coreothers/srelparties.dat
+#run/verificationrep/core/viprelparties_spool.sql finacle/verificationrep/coreothers/viprelparties.dat
+#run/verificationrep/core/simaster_spool.sql finacle/verificationrep/coreothers/simaster.dat
+#run/verificationrep/core/memopad_spool.sql finacle/verificationrep/coreothers/memopad.dat
+#run/verificationrep/retail/kyc_retail_spool.sql finacle/verificationrep/retail/kycretail.dat
+#run/verificationrep/corporate/kyc_corp_spool.sql finacle/verificationrep/retail/kyccorp.dat
+#run/verificationrep/core/tfodamaster_spool.sql finacle/verificationrep/coremaster/tfodamaster.dat
+#run/verificationrep/khurram/khurram_payroll_accounts.sql finacle/verificationrep/coremaster/kpayrollaccts.dat 
+#run/verificationrep/khurram/kjointaccts_spool.sql finacle/verificationrep/coremaster/kjointaccts.dat
+#run/verificationrep/khurram/kminoraccts_spool.sql finacle/verificationrep/coremaster/kminoraccts.dat
+#run/verificationrep/khurram/kodamaster_spool.sql finacle/verificationrep/coremaster/kodamaster.dat
+#run/verificationrep/khurram/kpoadetails_spool.sql finacle/verificationrep/coremaster/kpoadetails.dat
+#run/verificationrep/core/waivercodes_spool.sql finacle/verificationrep/coremaster/waivercodes.dat
+#run/verificationrep/core/account_summary_spool.sql finacle/verificationrep/coremaster/acctsummary.dat
+#run/verificationrep/khurram/special_conditions_spool.sql finacle/verificationrep/coremaster/specialconditions.dat
+#run/verificationrep/core/pdc_spool.sql finacle/verificationrep/coreothers/pdc.dat
+#run/verificationrep/core/accruedcharges_spool.sql finacle/verificationrep/coreothers/accruedcharges.dat
+#run/verificationrep/core/skywards_spool.sql finacle/verificationrep/coreothers/skywards.dat
+#run/verificationrep/core/lockercustomization_spool.sql finacle/verificationrep/coreothers/lockercustomization.dat
+#run/verificationrep/core/subscription_spool.sql finacle/verificationrep/coreothers/subscription.dat
+#run/verificationrep/core/custom_name_spool.sql finacle/verificationrep/coreothers/customname.dat
+#run/verificationrep/collateral/col_linkage.sql finacle/verificationrep/collateral/collinkage.dat
+#run/verificationrep/collateral/guar.sql finacle/verificationrep/collateral/guar.dat
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+#run/upload/finacle/RL001_upload.sql
+run/upload/finacle/RL003_upload.sql
+#run/upload/finacle/RL004_upload.sql
+#run/upload/finacle/RL005_upload.sql
+#run/upload/finacle/RL006_upload.sql
+#run/upload/finacle/RL025_upload.sql

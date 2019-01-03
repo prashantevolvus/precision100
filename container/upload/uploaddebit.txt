@@ -1,0 +1,3 @@
+run/upload/finacle/carddetails_upload.sql
+run/upload/finacle/cardlinkage_upload.sql
+#run/upload/finacle/cardhot_upload.sql

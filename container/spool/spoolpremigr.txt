@@ -1,0 +1,12 @@
+run/verificationrep/premigr/cifmapping_spool.sql finacle/verificationrep/premigr/cifmapping.dat
+run/verificationrep/premigr/customeraccts_spool.sql finacle/verificationrep/premigr/customeraccts.dat
+
+
+
+
+
+
+
+
+
+

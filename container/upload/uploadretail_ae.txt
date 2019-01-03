@@ -1,0 +1,8 @@
+run/upload/finacle/cu1_upload_ae.sql
+run/upload/finacle/cu2_upload_ae.sql
+run/upload/finacle/cu3_upload_ae.sql
+run/upload/finacle/cu4_upload_ae.sql
+run/upload/finacle/cu5_upload_ae.sql
+run/upload/finacle/cu6_upload_ae.sql
+run/upload/finacle/cu8_upload_ae.sql
+run/upload/finacle/cu9_upload_ae.sql

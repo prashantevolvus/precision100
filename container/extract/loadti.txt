@@ -1,0 +1,10 @@
+odsdev/TI/ti_dubai_extract_noncash.sql
+odsdev/TI/ti_extract_aud_commission.sql
+odsdev/TI/ti_extract_commission.sql
+odsdev/TI/ti_extract_dub_commission.sql
+odsdev/TI/ti_extract_lc_lg_margin.sql
+odsdev/TI/ti_extract_noncash.sql
+odsdev/TI/ti_riskparticipation_rate.sql
+odsdev/TI/ti_uae_extract_trust_receipts.sql
+
+

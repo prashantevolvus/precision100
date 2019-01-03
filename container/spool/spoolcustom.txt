@@ -1,0 +1,5 @@
+#run/spool/finacle/custom_operation_codes_spool.sql finacle/custom/operation_codes.txt /custom/
+#run/spool/finacle/custom_pdc_spool.sql finacle/custom/custom_pdc.txt
+#run/spool/finacle/custom_acct_closed_spool.sql finacle/custom/account_closed.txt
+#run/spool/finacle/custom_nominated_acct_spool.sql finacle/custom/custom_nominated_acct.txt
+#run/spool/finacle/custom_pool_spool_kw.sql finacle/custom/custom_pool.txt

@@ -1,0 +1,9 @@
+run/verification_reports/uae/trade/outward_bg.sql reports/uae/trade/outward_bg.dat
+run/verification_reports/uae/trade/inward_bg.sql reports/uae/trade/inward_bg.dat
+run/verification_reports/uae/trade/outward_lc.sql reports/uae/trade/outward_lc.dat
+run/verification_reports/uae/trade/outward_bills.sql reports/uae/trade/outward_bills.dat
+run/verification_reports/uae/trade/inward_bills.sql reports/uae/trade/inward_bills.dat
+run/verification_reports/uae/trade/trust_receipts.sql reports/uae/trade/trust_receipts.dat
+run/verification_reports/uae/trade/bg.sql reports/uae/trade/bg.dat
+run/verification_reports/uae/trade/lc_balance.sql reports/uae/trade/lc_balance.dat
+run/verification_reports/uae/trade/lc_accepted_bills_rh.sql reports/uae/trade/lc_accepted_bills_rh.dat

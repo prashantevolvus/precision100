@@ -1,0 +1,3 @@
+run/spool/treasury/treasury_group_spool.sql finacle/treasurylimit/treasury_group.txt
+run/spool/treasury/treasury_country_limit_spool.sql finacle/treasurylimit/treasury_country_limit.txt
+run/spool/treasury/treasury_customer_and_group_limit_spool.sql finacle/treasurylimit/treasury_customer_and_group_limit.txt

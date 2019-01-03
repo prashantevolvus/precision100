@@ -1,0 +1,17 @@
+#run/spool/finacle/ttum01_spool.sql finacle/ttum/TTUM01.txt /TTUM/
+#run/spool/finacle/ttum02_spool.sql finacle/ttum/TTUM02.txt /TTUM/ 
+#run/spool/finacle/ttum02_set2_spool.sql finacle/others/TTUM02_SET2.txt /TTUM/ 
+#run/spool/finacle/ttum03_spool.sql finacle/ttum/TTUM03.txt /TTUM/
+#run/spool/finacle/ttum04_spool.sql finacle/others/TTUM04.txt /TTUM/
+run/spool/finacle/ttum05_spool.sql finacle/ttum/TTUM05.txt /TTUM/
+#run/spool/finacle/ttum06_spool.sql finacle/ttum/TTUM06.txt /TTUM/
+#run/spool/finacle/ttum_split_spool.sql finacle/ttum/TTUM_split.txt /TTUM/
+#run/spool/finacle/ttumrltl_spool_ae.sql finacle/ttum/TTUMRLTL.txt /TTUM/
+#run/spool/finacle/col_dep_spool.sql finacle/others/COL_DEP.txt /COLLATERAL/
+#run/spool/finacle/col_g_spool.sql finacle/others/COL_GUA.txt /COLLATERAL/
+#run/spool/finacle/col_ip_re_spool.sql finacle/others/COL_IP_RE.txt /COLLATERAL/
+#run/spool/finacle/col_others_ins_spool.sql finacle/others/COL_OTH_INS.txt /COLLATERAL/
+#run/spool/finacle/col_others_spool.sql finacle/others/COL_OTH.txt /COLLATERAL/
+#run/spool/finacle/col_mach_spool.sql finacle/others/COL_MACH.txt /COLLATERAL/
+#run/spool/finacle/col_tradable_spool.sql finacle/others/COL_TRAD.txt /COLLATERAL/
+#run/spool/finacle/collateral_spool.sql finacle/collatreal/COLL_MASTER.txt /COLLATERAL/

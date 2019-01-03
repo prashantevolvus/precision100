@@ -1,0 +1,11 @@
+#run/upload/ebanking/bank_details_upload.sql
+#run/upload/ebanking/bank_master_upload.sql
+#run/upload/ebanking/bank_routing_upload.sql
+#run/upload/ebanking/customer_payee_upload.sql
+#run/upload/ebanking/e_banking_user_upload.sql
+#run/upload/ebanking/payee_master_upload.sql
+run/upload/ebanking/sms_and_e_banking_user_upload.sql
+run/upload/ebanking/payee_master_upload.sql
+run/upload/ebanking/customer_payee_upload.sql
+run/upload/ebanking/sms_alerts_registration_upload.sql
+run/upload/ebanking/sms_alerts_subscription_upload.sql

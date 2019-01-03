@@ -1,0 +1,32 @@
+#run/verificationrep/retail/cifrelationship_spool.sql finacle/verificationrep/retail/cifrelationship.dat
+#run/verificationrep/retail/nsretmaster_spool.sql finacle/verificationrep/retail/nsretmaster.dat
+#run/verificationrep/retail/sretmaster_spool.sql finacle/verificationrep/retail/sretmaster.dat
+#run/verificationrep/retail/vipretmaster_spool.sql finacle/verificationrep/retail/vipretmaster.dat
+run/verificationrep/retail/nsretdemographic_spool.sql finacle/verificationrep/retail/nsretdemographic.dat
+run/verificationrep/retail/sretdemographic_spool.sql finacle/verificationrep/retail/sretdemographic.dat
+run/verificationrep/retail/vipretdemographic_spool.sql finacle/verificationrep/retail/vipretdemographic.dat
+#run/verificationrep/retail/nsretclassi_spool.sql finacle/verificationrep/retail/nsretclassi.dat
+#run/verificationrep/retail/sretclassi_spool.sql finacle/verificationrep/retail/sretclassi.dat
+#run/verificationrep/retail/vipretclassi_spool.sql finacle/verificationrep/retail/vipretclassi.dat
+#run/verificationrep/retail/nsretemail_spool.sql finacle/verificationrep/retail/nsretemail.dat
+#run/verificationrep/retail/sretemail_spool.sql finacle/verificationrep/retail/sretemail.dat
+#run/verificationrep/retail/vipretemail_spool.sql finacle/verificationrep/retail/vipretemail.dat
+#run/verificationrep/retail/nsretdocument_spool.sql finacle/verificationrep/retail/nsretdocument.dat
+#run/verificationrep/retail/sretdocument_spool.sql finacle/verificationrep/retail/sretdocument.dat
+#run/verificationrep/retail/vipretdocument_spool.sql finacle/verificationrep/retail/vipretdocument.dat
+#run/verificationrep/retail/nsretphone_spool.sql finacle/verificationrep/retail/nsretphone.dat
+#run/verificationrep/retail/sretphone_spool.sql finacle/verificationrep/retail/sretphone.dat
+#run/verificationrep/retail/vipretphone_spool.sql finacle/verificationrep/retail/vipretphone.dat
+#run/verificationrep/retail/nsretaddr_spool.sql finacle/verificationrep/retail/nsretaddr.dat
+#run/verificationrep/retail/sretaddr_spool.sql finacle/verificationrep/retail/sretaddr.dat
+#run/verificationrep/retail/vipretaddr_spool.sql finacle/verificationrep/retail/vipretaddr.dat
+#run/verificationrep/retail/cifrelationship_spool.sql finacle/verificationrep/retail/cifrelationship.dat
+#run/verificationrep/corporate/kyc_corp_spool.sql finacle/verificationrep/retail/kyccorp.dat
+#run/verificationrep/retail/kyc_retail_spool.sql finacle/verificationrep/retail/kycretail.dat
+
+
+
+
+
+
+

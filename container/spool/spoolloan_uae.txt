@@ -1,0 +1,6 @@
+run/spool/finacle/lam_spool_uae.sql finacle/laa/UAE/RL001.txt /CORE/LOANS/
+run/spool/finacle/lrs_spool_uae.sql finacle/laa/UAE/RL003.txt /CORE/LOANS/
+run/spool/finacle/lat_spool_uae.sql finacle/laa/UAE/RL004.txt /CORE/LOANS/
+run/spool/finacle/lat1_spool_uae.sql finacle/laa/UAE/RL005.txt /CORE/LOANS/
+run/spool/finacle/ldt_spool_uae.sql finacle/laa/UAE/RL006.txt /CORE/LOANS/
+run/spool/finacle/rl025_spool_uae.sql finacle/laa/UAE/RL025.txt /CORE/LOANS/

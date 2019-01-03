@@ -1,0 +1,6 @@
+#run/spool/finacle/lam_spool_kw.sql finacle/laa/KW/RL001.txt /CORE/LOANS/
+#run/spool/finacle/lrs_spool_kw.sql finacle/laa/KW/RL003.txt /CORE/LOANS/
+#run/spool/finacle/lat_spool_kw.sql finacle/laa/KW/RL004.txt /CORE/LOANS/
+#run/spool/finacle/lat1_spool_kw.sql finacle/laa/KW/RL005.txt /CORE/LOANS/
+#run/spool/finacle/ldt_spool_kw.sql finacle/laa/KW/RL006.txt /CORE/LOANS/
+#run/spool/finacle/rl025_spool_kw.sql finacle/laa/KW/RL025.txt /CORE/LOANS/

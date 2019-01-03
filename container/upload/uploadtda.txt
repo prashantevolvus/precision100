@@ -1,0 +1,5 @@
+run/upload/finacle/TDA02_upload.sql
+run/upload/finacle/TDA04_upload.sql
+#run/upload/finacle/TUA04_upload.sql
+run/upload/finacle/TDA08_upload.sql
+#run/upload/finacle/TDA07_upload.sql

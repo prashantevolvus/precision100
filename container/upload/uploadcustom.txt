@@ -1,0 +1,6 @@
+#run/upload/finacle/custom_operation_codes_upload_ae.sql
+run/upload/finacle/custom_nominated_acct_upload.sql
+run/upload/finacle/custom_acct_closed_upload.sql
+#run/upload/finacle/custom_pool_upload_kw.sql
+run/upload/finacle/custom_hold_ae.sql
+run/upload/finacle/custom_risk_rating_ae.sql

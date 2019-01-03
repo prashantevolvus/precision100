@@ -1,0 +1,3 @@
+run/spool/finacle/carddetails_spool.sql finacle/debit/CD001.txt /debit/
+run/spool/finacle/cardlinkage_spool.sql finacle/debit/CD002.txt /debit/
+#run/spool/finacle/cardhot_spool.sql finacle/debit/CD003.txt /debit/

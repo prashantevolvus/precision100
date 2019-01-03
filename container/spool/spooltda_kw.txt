@@ -1,0 +1,6 @@
+#run/spool/finacle/tda02_spool_kw.sql finacle/tda/KW/TD002.txt /CORE/td/
+#run/spool/finacle/tda04_spool_kw.sql finacle/tda/KW/TD004.txt /CORE/td/
+#run/spool/finacle/tua04_spool_kw.sql finacle/tda/KW/TUA004.txt /CORE/td/
+#run/spool/finacle/tda08_spool_kw.sql finacle/tda/KW/TD008.txt /CORE/td/
+#run/spool/finacle/td_ren_prd_spool_kw.sql finacle/tda/KW/TD_REN_PRD.txt /core/td/
+#run/spool/finacle/tda07_spool_kw.sql finacle/tda/KW/TD007.txt /core/td/

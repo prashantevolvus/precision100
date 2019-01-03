@@ -1,0 +1,1 @@
+run/spool/finacle/limit_core_spool.sql

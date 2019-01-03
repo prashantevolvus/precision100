@@ -1,0 +1,8 @@
+#run/spool/finacle/ccu1_spool.sql finacle/cifuae/CC001.txt /CIF/retail/
+#run/spool/finacle/ccu2_spool.sql finacle/cifuae/CC002.txt /CIF/retail/
+##run/spool/finacle/ccu3_spool.sql finacle/cifuae/CC003.txt /CIF/retail/
+#run/spool/finacle/ccu5_spool.sql finacle/cifuae/CC005.txt /CIF/retail/
+#run/spool/finacle/ccu7_spool.sql finacle/cifuae/CC007.txt /CIF/retail/
+#run/spool/finacle/ccu8_spool.sql finacle/cifuae/CC008.txt /CIF/retail/
+run/spool/finacle/ccu9_spool.sql finacle/cifuae/CC009.txt /cif/corporate/
+##run/spool/finacle/custom_corp_shareholder.sql finacle/cif/share_holder.txt /cif/corporate/
